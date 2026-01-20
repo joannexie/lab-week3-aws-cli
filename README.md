@@ -1,4 +1,4 @@
-# 4640-w3-lab-start-w25
+# 4640-w3-lab
 Allison Chen, Jean Venter and Joanne Xie
 
 ### script 1 documentation
